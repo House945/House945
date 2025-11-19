@@ -1,8 +1,4 @@
-# 💫 About Me:
-🔭 Software Engineer | Valhalla Technologies | Vestbee<br>
-
-
-## 🌐 Socials:
+# 🔭 Software Engineer | Valhalla Technologies | Vestbee<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-krawczyk) 
 
 # 💻 Tech Stack:
